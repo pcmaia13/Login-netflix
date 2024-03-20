@@ -1,4 +1,4 @@
-In this project I made a login screen with a layout similar to Netflix
+In this project I made a login screen with a layout similar to Netflix, 
 using html, css and javascript:
 
 
